@@ -616,13 +616,9 @@ As a general rule you should try to group similar attributes together. A good wa
 
 #Thanks for your time. Hope you have cleared your all doubt related to coding style and convention used in android.  
 #Contributers:
-#[Krishan Mohan Sharma](https://github.com/krishansharma91)  
 #[Kuljeet Singh Bhadwal] (https://github.com/KuljeetSingh96)  
-#[Vardaan Sharma](https://github.com/vardaan)  
-
-
-
-
+#[Krishan Mohan Sharma](https://github.com/krishansharma91)  
+#[Vardaan Sharma](https://github.com/vardaan) 
 
 
 -
